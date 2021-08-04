@@ -4,7 +4,7 @@
   "description": "Api com json server projeto pokestore",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 8000"
+     "start" : "node server.js"
   },
   "repository": {
     "type": "git",
