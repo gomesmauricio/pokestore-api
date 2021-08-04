@@ -1,0 +1,23 @@
+{
+  "name": "pokestore-api",
+  "version": "1.0.0",
+  "description": "Api com json server projeto pokestore",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomesmauricio/pokestore-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomesmauricio/pokestore-api/issues"
+  },
+  "homepage": "https://github.com/gomesmauricio/pokestore-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
